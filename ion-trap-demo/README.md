@@ -6,6 +6,9 @@ The designs folder holds the 3D printed components:
 1. The saddle which sits on top of the motor shaft.
 2. The box that holds all the components together
 
+### Literature
+Contains papers I found useful when designing this project as well as the physics this demo is demonstrating.
+
 ### Pictures
 Pictures of different parts and how they fit together.
 
