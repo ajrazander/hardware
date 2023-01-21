@@ -9,4 +9,4 @@ The physics of how an individual atom can be "trapped" in a vacuum for experimen
 
 
 
-Please contact me and request permission before using any of the designs above.
+Please contact me and request permission before using any of the designs above. 
