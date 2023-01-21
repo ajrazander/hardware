@@ -12,6 +12,5 @@ This paper and lab demo was quite helpful and gives a great practical and theore
 Thompson, R. I., T. J. Harmon, and M. G. Ball. "The rotating-saddle trap: A mechanical analogy to RF-electric-quadrupole ion trapping?." [Canadian journal of physics 80.12 (2002): 1433-1448.](https://cdnsciencepub.com/doi/abs/10.1139/p02-110?casa_token=sJ-Zi232CQUAAAAA:210sdULSYhZ5HpAPFgkZdPJdgjSiPTPr_pz2iESDZ3ZgZK2m6Y9824DAcgRlcHARluZ3IUUG2A)
 
 
-
-
-Please contact me and request permission before using any of the designs above. 
+### Want to try it yourself?
+Please contact me and request permission before using any of the designs above per the licensing agreement. 
