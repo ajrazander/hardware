@@ -21,7 +21,7 @@ Build
 3. Put batteries in battery holder.
 4. Attach the battery holder leads to the 12V DC motor controller. If you bought the same one I did, then use a screwdriver to open up the driver slot, put the battery hold lead in, and tighten the slot with the screwdriver.
 5. Attach 2 wires to the controller output which will eventually attach to the motor. Use the same method as above.
-6. Pull off the knob from the contoller's potentiometer and unscrew the nut. Remove the washer. Slide the controller's potentiometer handle into the hole in the box. Tighten the washer and nut until the controller is held in place. Put the knob back on. 
+6. Pull off the knob from the contoller's potentiometer and unscrew the nut. Remove the washer. Slide the controller'gs potentiometer handle into the hole in the box. Tighten the washer and nut until the controller is held in place. Put the knob back on. 
 7. Wiggle the controllers switch into the rectangular hole above the potentiometer's hole. It may be a little loose. You may be tempted to hot or super glue it in place, but don't do that until you're sure everything is working how you want it to.
 8. Wire the DC motor. Attach the leads from the controller output to the DC motor leads. It doesn't matter which wire goes to which lead. Attach as you see fit. Soldering is probably the best option. If that's not possible for you, you could get away with taping the wires on with electrical tape.
 9. Place the motor on the motor stand in the box. Be sure to line up the motor leads by the open section and align the small metal folds on the bottom of the motor with the short rails in the motor stand. The motor should fit snuggly.
@@ -41,7 +41,9 @@ The designs folder holds the 3D printed components:
 2. The box that holds all the components together
 
 ### Literature
-Contains papers I found useful when designing this project as well as the physics this demo is demonstrating.
+Contains papers I found useful when designing this project as well as the physics this demo is demonstrating. Here are some nice youtube videos demonstrating or explaning the physics in no particular order:
+* https://youtu.be/9TH5mFHLmfc
+* https://youtu.be/1NBOsELakx4
 
 ### Pictures
 Pictures of different parts and how they fit together.
