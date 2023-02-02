@@ -13,4 +13,4 @@ Thompson, R. I., T. J. Harmon, and M. G. Ball. "The rotating-saddle trap: A mech
 
 
 ### Want to try it yourself?
-Please contact me and request permission before using any of the designs above per the licensing agreement. 
+I'm happy to see this work be used, so please contact me and request permission before using any of the designs above per the licensing agreement. 
