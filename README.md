@@ -1,5 +1,5 @@
 # Hardware
-Hardware designs for fun projects
+Fun designs demonstrating cool aspects of trapped ion quantum computing.
 
 
 ### How to catch an atom
