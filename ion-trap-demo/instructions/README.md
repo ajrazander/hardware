@@ -2,17 +2,22 @@
 There are three phase to this project: building, testing, and experimenting!
 
 ### Build
-Order and 3D print the parts. On the speed controller board, secure wire leads that will go to the batter holder and the DC motor (see step 3 for better image). ![Assembly picture 1](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png)
+Order and 3D print the parts. On the speed controller board, secure wire leads that will go to the batter holder and the DC motor (see step 3 for better image).![Assembly picture 1](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png)
 
-1. Place batteries in the battery holder and wiggle into the 3D printed box slot. It should fit snuggly. ![Assembly picture 2](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_2.png)
+1. Place batteries in the battery holder and wiggle into the 3D printed box slot. It should fit snuggly.
+![Assembly picture 2](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_2.png)
 
-2. Disconnect the black switch to the speed controller. Pull the outer knob off the potentiometer and take off the washer and nut under the knob. Push the exposed potentiometer knob through the bottom hole. This might need some moderate force and wiggling to get the threads through the hole. Reassemble the knob: put the washer back on; tighten the nut; push the knob back on. ![Assembly picture 3](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_3.png)
+2. Disconnect the black switch to the speed controller. Pull the outer knob off the potentiometer and take off the washer and nut under the knob. Push the exposed potentiometer knob through the bottom hole. This might need some moderate force and wiggling to get the threads through the hole. Reassemble the knob: put the washer back on; tighten the nut; push the knob back on.
+![Assembly picture 3](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_3.png)
 
-3. Attach the speed controller power output to the DC motor. It doesn’t matter which lead is connected to plus or minus on the DC motor. I suggest to use a more secure connection than shown here (such as soldering on the wires). ![Assembly picture 4](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_4.png)
+3. Attach the speed controller power output to the DC motor. It doesn’t matter which lead is connected to plus or minus on the DC motor. I suggest to use a more secure connection than shown here (such as soldering on the wires).
+![Assembly picture 4](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_4.png)
 
-4. Put the DC motor in the cylindrical base. Be sure the vertical 3D printed lines in the cylinder match with the metal groves at the bottom of the DC motor casing. Confirm the fit by wiggling the DC motor. It should not rotate. ![Assembly picture 5](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_5.png)
+4. Put the DC motor in the cylindrical base. Be sure the vertical 3D printed lines in the cylinder match with the metal groves at the bottom of the DC motor casing. Confirm the fit by wiggling the DC motor. It should not rotate.
+![Assembly picture 5](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_5.png)
 
-5. Attach the speed controller switch. Pull the white plug through the front rectangular hole of the 3D printed base. Plug it in to the speed controller. Wiggle and push the black switch into place. It will be a tight fit. ![Assembly picture 6](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_6.png)
+5. Attach the speed controller switch. Pull the white plug through the front rectangular hole of the 3D printed base. Plug it in to the speed controller. Wiggle and push the black switch into place. It will be a tight fit.
+![Assembly picture 6](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_6.png)
 
 6. Wrap up. With the speed controller’s switch off. Attach the battery wire leads to the battery holder. Slip the ping pong ball into the socket.
 Testing
