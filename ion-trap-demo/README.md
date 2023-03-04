@@ -1,5 +1,5 @@
 # The Trapped Ion
-Here's a ping pong ball demonstrating how atomic physicists trap individual atoms for study and even quantum computing.
+Here's a ping pong ball and spinning saddle to demonstrate how atomic physicists trap individual atoms for study and even quantum computing.
 
 ### Parts list. This is what and where I purchased each item (if you find something cheaper let me know).
 * Housing. A 3D printed container to hold everything together (see designs/box_v4.stl). (Feb 2023)
