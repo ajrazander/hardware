@@ -2,6 +2,9 @@
 Fun designs demonstrating cool aspects of trapped ion quantum computing.
 
 ### [How to trap an atom](https://github.com/ajrazander/hardware/tree/main/ion-trap-demo)
+
+<img src="https://github.com/ajrazander/hardware/tree/main/ion-trap-demo/instructions/videos/trapped_ion_test.gif" width="40" height="40" />
+
 This physics demo shows how an individual atom can be "trapped" for experimental study using an [Paul trap](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer#Paul_trap). State-of-the-art Paul traps are used for [trapped-ion quantum computers](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer) and [mass spectroscopy](https://en.wikipedia.org/wiki/Quadrupole_ion_trap). The demo was designed to use as many 3D printed parts as possible and inexpensive parts for the rest.
 
 The physics of how an *individual* atom can be "trapped" in a vacuum for experimental study is fascinating. It's also led to a few Noble prizes and dramatically advanced the fields of [atomic, optical, and molecular physics](https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics) as well as [quantum information](https://en.wikipedia.org/wiki/Quantum_information). This ion trap demo is a simple analogy for how individual atoms are actually trapped in a [linear Paul trap](https://en.wikipedia.org/wiki/Ion_trap#Linear_Paul_Trap).
