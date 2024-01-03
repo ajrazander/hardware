@@ -30,7 +30,7 @@ There are two phase to this project: assembly and experimenting!
 ### Assembly
 Order and 3D print the parts. On the speed controller PCB board, secure wire leads that will go to the battery holder and the DC motor (see step 3 for better image).
 
-![Assembly picture 1](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png)
+![Assembly picture 1](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png) with <img src="[https://your-image-url.type](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png)" width="600">
 
 1. Place batteries in the battery holder and wiggle it into its slot on the 3D printed housing. It should fit snuggly.
 
