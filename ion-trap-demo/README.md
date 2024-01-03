@@ -1,7 +1,8 @@
 # The Trapped Ion
 How do you trap one atom? Wolfgang Paul was awarded the Nobel Prize for one strategy which is now called the Paul trap. Here, you'll demonstrate it with a ping pong ball for the atom and a spinning saddle for the oscillating voltages.
 
-### Parts list. This is what and where I purchased each item (if you find something cheaper let me know).
+### Parts list
+This is what and where I purchased each item (if you find something cheaper let me know).
 * Housing. A 3D printed container to hold everything together (see designs/box_v4.stl). (Feb 2023)
 * Saddle potential. A 3D printed saddle that "traps" the ping pong ball (see designs/saddle_100xy_50z.stl). (Jan 2023)
 * ~600 grit sand paper. You want something fine to smooth the saddle. This will dramatically increase the trapping time. (Jan 2023)
