@@ -25,10 +25,10 @@ Contains papers I found useful when designing this project as well as the physic
 * https://youtu.be/1NBOsELakx4
 
 # Instructions
-There are two phase to this project: assembly, and experimenting!
+There are two phase to this project: assembly and experimenting!
 
 ### Assembly
-Order and 3D print the parts. On the speed controller PCB board, secure wire leads that will go to the batter holder and the DC motor (see step 3 for better image).
+Order and 3D print the parts. On the speed controller PCB board, secure wire leads that will go to the battery holder and the DC motor (see step 3 for better image).
 
 ![Assembly picture 1](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png)
 
