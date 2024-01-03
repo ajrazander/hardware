@@ -30,27 +30,27 @@ There are two phase to this project: assembly and experimenting!
 ### Assembly
 Order and 3D print the parts. On the speed controller PCB board, secure wire leads that will go to the battery holder and the DC motor (see step 3 for better image).
 
-<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png" width="250">
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_1.png" width="400">
 
 1. Place batteries in the battery holder and wiggle it into its slot on the 3D printed housing. It should fit snuggly.
 
-![Assembly picture 2](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_2.png)
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_2.png" width="400">
 
 2. Attach the speed controller board to the 3D printed housing. Disconnect the speed controller’s black switch. Pull the outer knob off the potentiometer and take off the washer and nut under the knob. Push the exposed potentiometer knob through the bottom hole of the 3D printed housing (see image below). This might need some moderate force and wiggling to get the threads through the hole. Reassemble the knob: put the washer back on, tighten the nut, and push the knob back on.
 
-![Assembly picture 3](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_3.png)
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_3.png" width="400">
 
 3. Attach the speed controller power output to the DC motor. It doesn’t matter which lead from the speed controller is connected to the plus or minus lead of the DC motor. Definitely use a more secure connection than shown here (such as soldering on the wires).
 
-![Assembly picture 4](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_4.png)
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_4.png" width="400">
 
 4. Put the DC motor in the cylindrical base. Be sure the 3D printed parallel rails in the cylinder match with the metal groves at the bottom of the DC motor casing. This stabilizers the motor’s rotation. Confirm the fit by wiggling the DC motor. It should not rotate.
 
-![Assembly picture 5](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_5.png)
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_5.png" width="400">
 
 5. Attach the speed controller switch. Push the white plug from the front rectangular hole of the 3D printed housing to inside the housing by the speed controller. Plug it in to the speed controller. Carefully wiggle and push the black switch into place. It will be a tight fit.
 
-![Assembly picture 6](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_6.png)
+<img src="https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/photos/assembly_6.png" width="400">
 
 6. Wrap up. With the speed controller’s switch off. Attach the battery wire leads to the battery holder. Slip the ping pong ball into the socket. Find the flat side of the DC motor shaft and the flat side of the 3D printed saddle’s base and push the saddle on. This might need a bit of force, but should slide on nicely.
 
