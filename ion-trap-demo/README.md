@@ -9,7 +9,7 @@ This is what and where I purchased each item (if you find something cheaper let 
 * Saddle potential. A 3D printed saddle that "traps" the ping pong ball (see designs/saddle_100xy_50z.stl). (Jan 2023)
 * ~600 grit sand paper. You want something fine to smooth the saddle. This will dramatically increase the trapping time. (Jan 2023)
 * 12V DC motor (you'll want it geared down to the range of a few hundred RPM). Used to spin the saddle. Review the paper under the literature folder to calculate how much speed you may want. 1Hz (60 RPM) seems to be a golden speed for most saddles. I purchased one [online for $15](https://www.amazon.com/gp/product/B072R5G5GR/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&th=1) that's probably too beefy but I like the standing geometry (Jan 2023).
-* 12V DC motor speed controller. You could make this yourself if you have access to a basic eletronics. I purchased [these online for $10](https://www.amazon.com/gp/product/B08HQQR3FQ/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) (Jan 2023)
+* 12V DC motor speed controller. You could make this yourself if you have access to a basic electronics. I purchased [these online for $10](https://www.amazon.com/gp/product/B08HQQR3FQ/ref=ppx_yo_dt_b_asin_title_o01_s01?ie=UTF8&psc=1) (Jan 2023)
 * 8 AA battery holder. Used to power the DC motor. I bought it [here for $7](https://www.amazon.com/gp/product/B07WP1CYYW/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1) (Jan 2023)
 * 8 AA batteries. (Jan 2023)
 * Ping pong ball. The ping pong ball is the "atom" in the trap. I used a standard 40mm size ping pong ball and [purchased a few here for $10](https://www.amazon.com/gp/product/B00V57KP1G/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&th=1). (Jan 2023)
