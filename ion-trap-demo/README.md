@@ -1,5 +1,5 @@
 ﻿# The Trapped Ion
-How do you trap one atom? Wolfgang Paul was awarded the Nobel Prize for one strategy which is now called the Paul trap. Here, you'll demonstrate it with a ping pong ball for the ion (a charged atom) and a spinning saddle for the oscillating voltages.
+How do you trap one atom? Wolfgang Paul and Hans Dehmelt were awarded [the Nobel Prize](https://www.nobelprize.org/prizes/physics/1989/summary/) for one strategy which is now called [the Paul trap](https://en.wikipedia.org/wiki/Ion_trap) (or RF trap). Here, you'll demonstrate it with a ping pong ball for the ion (a charged atom) and a spinning saddle for the oscillating voltages.
 
 ![Spinning saddle trapped a ping pong ball](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/videos/trapped_ion_test.gif)
 
