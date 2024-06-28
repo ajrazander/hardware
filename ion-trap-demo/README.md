@@ -1,4 +1,4 @@
-# The Trapped Ion
+﻿# The Trapped Ion
 How do you trap one atom? Wolfgang Paul was awarded the Nobel Prize for one strategy which is now called the Paul trap. Here, you'll demonstrate it with a ping pong ball for the ion (a charged atom) and a spinning saddle for the oscillating voltages.
 
 ![Spinning saddle trapped a ping pong ball](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/videos/trapped_ion_test.gif)
@@ -20,11 +20,6 @@ The designs folder holds the 3D printed components which you will need to print:
 1. The saddle which sits on top of the motor shaft.
 2. The housing that holds all the components together.
 The Mathematica file "saddle-design.nb" allows you to export your own custom saddle stl file. (It's suprisingly easy; then use tinkercad to get the DC motor attachment shaft on the saddle).
-
-### Literature
-Contains papers I found useful when designing this project as well as the physics this demo is demonstrating. Here are some nice youtube videos demonstrating or explaning the physics in no particular order:
-* https://youtu.be/9TH5mFHLmfc
-* https://youtu.be/1NBOsELakx4
 
 # Instructions
 There are two phase to this project: assembly and experimenting!
@@ -70,3 +65,8 @@ Extra. **You will need to smooth the 3D printed saddle to get good trapped times
 4. Try different balls and saddle shapes! (See designs folder for the Mathematica notebook that can export new saddle stl files)
 
 5. And of course, what’s the longest trapping time you can get and what helped the ball stay trapped for so long?
+
+### Literature
+Contains papers I found useful when designing this project as well as the physics this demo is demonstrating. Here are some nice youtube videos demonstrating or explaning the physics in no particular order:
+* https://youtu.be/9TH5mFHLmfc
+* https://youtu.be/1NBOsELakx4
