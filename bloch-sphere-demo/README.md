@@ -16,11 +16,11 @@ The designs folder holds the 3D printed components which you will need to print:
 
 1. Print Bloch sphere. Remove support material. Consider sanding where supports were.
 
-<img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere.JPG)" width="400">
+<img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere.JPG" width="400">
 
 2. Print qubit vector.
 
-<img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/qubit_vector.JPG)" width="400">
+<img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/qubit_vector.JPG” width="400">
 
 3. Slip qubit vector into Bloch sphere rails. It’s easiest at an intersection.
 
