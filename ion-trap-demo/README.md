@@ -50,7 +50,7 @@ Order and 3D print the parts. On the speed controller PCB board, secure wire lea
 
 6. Wrap up. With the speed controller’s switch off. Attach the battery wire leads to the battery holder. Slip the ping pong ball into the socket. Find the flat side of the DC motor shaft and the flat side of the 3D printed saddle’s base and push the saddle on. This might need a bit of force, but should slide on nicely.
 
-Extra. **You will need to smooth the 3D printed saddle to get good trapped times** (~ minutes of trapping are possible with very smooth saddles). Read more about this under Experimenting point 3.
+7. **You will need to smooth the 3D printed saddle to get good trapped times** (~ minutes of trapping are possible with very smooth saddles). Read more about this under Experimenting point 3.
 
 #  Experimenting
 1. Test the DC motor is working as expected. Turn on the dc motor using the controller (without the saddle on the DC motor shaft). Does the DC motor shaft spin? Is the DC motor stable in the cylindrical base? Does varying the speed controller’s potentiometer knob affect the DC motor’s speed? Can you get to the rotational speed you want/calculated for the saddle shape you 3D printed? Troubleshoot accordingly ;).
