@@ -26,9 +26,9 @@ The designs folder holds the 3D printed components which you will need to print:
 
 ![Slip qubit vector into Bloch sphere rail](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/assembly.gif)
 
-###  Experimenting
+#  Experimenting
 Coming…
 
 
-### Literature
+# Literature
 Coming...
