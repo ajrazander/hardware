@@ -7,7 +7,7 @@ The physics of how an *individual* atom can be "trapped" in a vacuum for experim
 
 In Paul traps used for quantum computing, the atom would first be ionized by a laser (or two) at the center of the Paul trap. The atom then has a net positive charge, so we call it an ion. The ion's net charge is pushed by the voltages on the Paul trap's electrodes in such a way that the ion can't escape--hence the ion is "trappped". How the electrode voltages can push on the ion is actually quite limited (see [Earnshaw's theorem](https://en.wikipedia.org/wiki/Earnshaw%27s_theorem)). To get around this limitation, Paul trap electrodes have oscillating (colloquially refered to as rf) voltages and static voltages. *We'll just focus on the oscillating voltages in this demo.* The oscillating voltages make a saddle like shape, but why doesn't the ion just fall off the sides of the saddle and escape? This demo shows how. Gravity and the rotating saddle simulate how the oscillating voltages in a linear Paul trap can trap an ion.
 
-# Instructions
+# Build Instructions
 
 ### Parts list
 This is what and where I purchased each item (if you find something cheaper let me know).
