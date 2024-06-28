@@ -8,7 +8,7 @@ Fun designs demonstrating cool aspects of trapped ion quantum computing.
 This physics demo shows how an individual atom can be "trapped" for experimental study using an [Paul trap](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer#Paul_trap). State-of-the-art Paul traps are used for [trapped-ion quantum computers](https://en.wikipedia.org/wiki/Trapped_ion_quantum_computer) and [mass spectroscopy](https://en.wikipedia.org/wiki/Quadrupole_ion_trap). The demo was designed to use as many 3D printed parts as possible and inexpensive parts for the rest.
 
 ### Instructions
-[Read the build instructions](https://github.com/ajrazander/hardware/tree/main/ion-trap-demo/README.md) for how to assemble the pieces together including some pictures and videos of it working.
+[Read the build instructions](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/README.md#build-instructions) for how to assemble the pieces together including some pictures and videos of it working.
 
 ### Experiments
 Coming...
@@ -18,7 +18,7 @@ Coming...
 Hold a quantum bit---a qubit---in your hands and recreate modern experiments with this fully 3D printable Bloch sphere and qubit state vector.
 
 ### Instructions
-[Read the build instructions](https://github.com/ajrazander/hardware/tree/main/bloch-sphere-demo/README.md) for stl files and assembly.
+[Read the build instructions](https://github.com/ajrazander/hardware/tree/main/bloch-sphere-demo/README.md#build-instructions) for stl files and assembly.
 
 ### Experiments
 Coming....
