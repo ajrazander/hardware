@@ -15,6 +15,8 @@ Coming...
 
 # [Hands on Qubit](https://github.com/ajrazander/hardware/tree/main/bloch-sphere-demo)
 
+<img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere.JPG" width="400">
+
 Hold a quantum bit---a qubit---in your hands and recreate modern experiments with this fully 3D printable Bloch sphere and qubit state vector.
 
 ### Instructions
