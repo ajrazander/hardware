@@ -25,5 +25,5 @@ Hold a quantum bit---[a qubit](https://en.wikipedia.org/wiki/Qubit)---in your ha
 ### Experiments
 Coming....
 
-### Want to use these?
+# Want to use these?
 I'm happy to see this work be used and shared, so please contact me and request permission before using any of the designs above per the licensing agreement.
