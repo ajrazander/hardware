@@ -1,7 +1,11 @@
-﻿# The Trapped Ion
+﻿# The Trapped IoN
 How do you trap one atom? Wolfgang Paul and Hans Dehmelt were awarded [the Nobel Prize](https://www.nobelprize.org/prizes/physics/1989/summary/) for one strategy which is now called [the Paul trap](https://en.wikipedia.org/wiki/Ion_trap) (or RF trap). Here, you'll demonstrate it with a ping pong ball for the ion (a charged atom) and a spinning saddle for the oscillating voltages.
 
 ![Spinning saddle trapped a ping pong ball](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/videos/trapped_ion_test.gif)
+
+The physics of how an *individual* atom can be "trapped" in a vacuum for experimental study is fascinating. It's also led to a few Noble prizes and dramatically advanced the fields of [atomic, optical, and molecular physics](https://en.wikipedia.org/wiki/Atomic,_molecular,_and_optical_physics) as well as [quantum information](https://en.wikipedia.org/wiki/Quantum_information). This ion trap demo is a simple analogy for how individual atoms are actually trapped in a [linear Paul trap](https://en.wikipedia.org/wiki/Ion_trap#Linear_Paul_Trap).
+
+In Paul traps used for quantum computing, the atom would first be ionized by a laser (or two) at the center of the Paul trap. The atom then has a net positive charge, so we call it an ion. The ion's net charge is pushed by the voltages on the Paul trap's electrodes in such a way that the ion can't escape--hence the ion is "trappped". How the electrode voltages can push on the ion is actually quite limited (see [Earnshaw's theorem](https://en.wikipedia.org/wiki/Earnshaw%27s_theorem)). To get around this limitation, Paul trap electrodes have oscillating (colloquially refered to as rf) voltages and static voltages. *We'll just focus on the oscillating voltages in this demo.* The oscillating voltages make a saddle like shape, but why doesn't the ion just fall off the sides of the saddle and escape? This demo shows how. Gravity and the rotating saddle simulate how the oscillating voltages in a linear Paul trap can trap an ion.
 
 # Instructions
 
