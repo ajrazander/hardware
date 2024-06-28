@@ -14,7 +14,7 @@ The designs folder holds the 3D printed components which you will need to print:
 
 ### Assembly
 
-1. Print Bloch sphere. Remove support material. Consider sanding where supports were.
+1. Print Bloch sphere (requires supports). Remove support material. Consider sanding where supports were.
 
 <img src="https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere.JPG" width="400">
 
