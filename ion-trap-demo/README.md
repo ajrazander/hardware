@@ -3,6 +3,8 @@ How do you trap one atom? Wolfgang Paul was awarded the Nobel Prize for one stra
 
 ![Spinning saddle trapped a ping pong ball](https://github.com/ajrazander/hardware/blob/main/ion-trap-demo/instructions/videos/trapped_ion_test.gif)
 
+# Instructions
+
 ### Parts list
 This is what and where I purchased each item (if you find something cheaper let me know).
 * Housing. A 3D printed container to hold everything together (see designs/box_v4.stl). (Feb 2023)
@@ -20,9 +22,6 @@ The designs folder holds the 3D printed components which you will need to print:
 1. The saddle which sits on top of the motor shaft.
 2. The housing that holds all the components together.
 The Mathematica file "saddle-design.nb" allows you to export your own custom saddle stl file. (It's suprisingly easy; then use tinkercad to get the DC motor attachment shaft on the saddle).
-
-# Instructions
-There are two phase to this project: assembly and experimenting!
 
 ### Assembly
 Order and 3D print the parts. On the speed controller PCB board, secure wire leads that will go to the battery holder and the DC motor (see step 3 for better image).
@@ -53,7 +52,7 @@ Order and 3D print the parts. On the speed controller PCB board, secure wire lea
 
 Extra. **You will need to smooth the 3D printed saddle to get good trapped times** (~ minutes of trapping are possible with very smooth saddles). Read more about this under Experimenting point 3.
 
-###  Experimenting
+#  Experimenting
 1. Test the DC motor is working as expected. Turn on the dc motor using the controller (without the saddle on the DC motor shaft). Does the DC motor shaft spin? Is the DC motor stable in the cylindrical base? Does varying the speed controller’s potentiometer knob affect the DC motor’s speed? Can you get to the rotational speed you want/calculated for the saddle shape you 3D printed? Troubleshoot accordingly ;).
 
 2. Measure the affect of the saddle’s speed on the trapping time. Start with the saddle spinning at slow speed. Place the ping pong ball in the center of the spinning saddle. If it rolls off, try increasing the speed. If the saddle looks like its flinging the ping pong ball off, try decreasing the speed. Measure the saddle rotation speed and the trapping time. Make a plot.
@@ -66,7 +65,7 @@ Extra. **You will need to smooth the 3D printed saddle to get good trapped times
 
 5. And of course, what’s the longest trapping time you can get and what helped the ball stay trapped for so long?
 
-### Literature
+# Literature
 Contains papers I found useful when designing this project as well as the physics this demo is demonstrating. Here are some nice youtube videos demonstrating or explaning the physics in no particular order:
 * https://youtu.be/9TH5mFHLmfc
 * https://youtu.be/1NBOsELakx4
