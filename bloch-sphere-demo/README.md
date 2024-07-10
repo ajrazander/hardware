@@ -24,11 +24,17 @@ The designs folder holds the 3D printed components which you will need to print:
 
 3. Slip qubit vector into Bloch sphere rails. It’s easiest at an intersection.
 
-![Slip qubit vector into Bloch sphere rail](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/assembly.gif)
+![Slip qubit vector into Bloch sphere rail](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/rubik_cube_rotations.gif)
 
 #  Experimenting
 Coming…
 
+### Noncommuting quantum operations
+Rubik's cube demonstration. The cube is rotated two different directions. Depending on the order, the yellow side ends up in a different location.
+![Rotations on Rubik's cube.(https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/assembly.gif)
+
+Bloch sphere demonstration. The vector is rotated two different directions. Depending on the order, the vector ends up in a different location. This is an example of how the order of quantum operations also matter.
+![Rotations on the Bloch Sphere](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere_rotations.gif)
 
 # Literature
 Coming...
