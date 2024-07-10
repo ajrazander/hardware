@@ -29,6 +29,15 @@ The designs folder holds the 3D printed components which you will need to print:
 #  Experimenting
 Coming…
 
+### Noncommuting quantum operations
+
+Rubik's cube demonstration. The cube is rotated two different directions. Depending on the order, the yellow side ends up in a different location.
+
+![Rotations on Rubik's cube](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/rubik_cube_rotations.gif)
+
+Bloch sphere demonstration. The vector is rotated two different directions. Depending on the order, the vector ends up in a different location. This is an example of how the order of quantum operations also matter.
+
+![Rotations on the Bloch Sphere](https://github.com/ajrazander/hardware/blob/main/bloch-sphere-demo/instruction%20media/bloch_sphere_rotations.gif)
 
 # Literature
 Coming...
